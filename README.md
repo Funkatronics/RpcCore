@@ -1,3 +1,6 @@
+# DEPRECATED
+this library has been moved to https://github.com/solana-mobile/rpc-core
+
 # RpcCore
 Multiplatform JSON RPC Library using Kotlin Serialization
 
